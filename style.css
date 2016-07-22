@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #A1D490;
+ }
+
+.navbar {
+    background-color: black;
+    color: white;
+}
